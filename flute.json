@@ -1,0 +1,343 @@
+[
+    {
+        "Instrument": "Flute",
+        "Grade": 1,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            {"Key": "F Major", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "F Major", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "G Major", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "G Major", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "E Minor", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "E Minor", "Range": "1 Octave", "Type": "Arpeggio"}
+        ]
+    },
+    {
+        "Instrument": "Flute",
+        "Grade": 2,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            {"Key": "C Major", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "C Major", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "F Major", "Range": "12th","Type": "Scale"},
+            {"Key": "F Major", "Range": "12th","Type": "Arpeggio"},
+
+            {"Key": "G Major", "Range": "12th","Type": "Scale"},
+            {"Key": "G Major", "Range": "12th","Type": "Arpeggio"},
+
+            { "Key": "A Minor", "Range": "1 Octave", "Type": "Scale"},
+            { "Key": "A Minor", "Range": "1 Octave", "Type": "Argeggio"},
+
+            { "Key": "E Minor", "Range": "12th", "Type": "Scale"},
+            { "Key": "E Minor", "Range": "12th", "Type": "Scale"}
+        ]
+    },
+    {
+        "Instrument": "Flute",
+        "Grade": 3,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            {"Key": "G Major", "Range": "12th", "Type": "Scale"},
+            {"Key": "G Major", "Range": "12th", "Type": "Arpeggio"},
+            
+            {"Key": "B flat Major", "Range": "12th",  "Type": "Scale"},
+            {"Key": "B flat Major", "Range": "12th",  "Type": "Arpeggio"},
+
+            {"Key": "D Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "D Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E Minor", "Range": "12th", "Type": "Scale" },
+            {"Key": "E Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            {"Key": "G Minor", "Range": "12th", "Type": "Scale" },
+            {"Key": "G Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            {"Key": "D Minor", "Range": "2 Octaves", "Type": "Scale" },
+            {"Key": "D Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            {"Key": "on G", "Range" : "1 Octave", "Type": "Chromatic"}
+        ]
+    },
+    {
+        "Instrument": "Flute",
+        "Grade": 4,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            {"Key": "A Major", "Range": "12th", "Type": "Scale"},
+            {"Key": "A Major", "Range": "12th", "Type": "Arpeggio"},
+
+            {"Key": "B flat Major", "Range": "12th", "Type": "Scale"},
+            {"Key": "B flat Major", "Range": "12th", "Type": "Arpeggio"},
+
+            {"Key": "C Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "G Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "G Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+            
+            { "Key": "A Minor", "Range": "12th", "Type": "Scale"},
+            { "Key": "A Minor", "Range": "12th", "Type": "Arpeggio"},
+
+            { "Key": "B Minor", "Range": "12th", "Type": "Scale"},
+            { "Key": "B Minor", "Range": "12th", "Type": "Arpeggio"},
+
+            { "Key": "C Minor", "Range": "2 Octaves", "Type": "Scale"},
+            { "Key": "C Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            { "Key": "G Minor", "Range": "2 Octaves", "Type": "Scale"},
+            { "Key": "G Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "on D", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "in G", "Range" : "2 Octaves", "Type": "Dominant 7th"}
+        ]
+    },
+    {
+        "Instrument": "Flute",
+        "Grade": 5,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            {"Key": "C Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "D Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "D Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "A flat Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "A Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "C Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F sharp Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F sharp Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "A Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "on C Sharp", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "on F", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "in A", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "in B flat", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "on E flat", "Range" : "2 Octaves", "Type": "Diminished 7th"}
+        ]
+    },
+    {
+        "Instrument": "Flute",
+        "Grade": 6,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            {"Key": "C sharp Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C sharp Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "D Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "D Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "B flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B flat Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "C sharp melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C sharp harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C sharp Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "D melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "D harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "D Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "B flat melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B flat harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B flat Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+            
+            { "Key": "C major", "Range": "1 Octave", "Type": "Scale in 3rds" },
+
+
+            {"Key": "on D", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "on E", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "on B flat", "Range" : "2 Octaves", "Type": "Chromatic"},
+
+            {"Key": "in G", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "in A", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "in E flat", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+
+            {"Key": "on D", "Range" : "2 Octaves", "Type": "Diminished 7th"},
+            {"Key": "on E", "Range" : "2 Octaves", "Type": "Diminished 7th"},
+            {"Key": "on B flat", "Range" : "2 Octaves", "Type": "Diminished 7th"}
+        ]
+    },
+    {
+        "Instrument": "Flute",
+        "Grade": 7,
+        "Articulation": ["Legato-tongued", "Slurred", "Staccato"],
+        "Scales": [
+            {"Key": "C sharp Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C sharp Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "G Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "G Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "A Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "B Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+
+            {"Key": "C sharp melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C sharp harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C sharp Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E flat melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "G melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "G harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "G Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "A harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "A Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "B melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            { "Key": "F major", "Range": "Extended Range", "Type": "Scale" },
+
+            { "Key": "D major", "Range": "2 Octaves", "Type": "Scale in 3rds" },
+
+            {"Key": "on C sharp", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "on G", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "on A", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "on B", "Range" : "2 Octaves", "Type": "Chromatic"},
+
+            {"Key": "in F sharp", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "in C", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "in D", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "in E", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+
+            {"Key": "on C sharp", "Range" : "2 Octaves", "Type": "Diminished 7th"},
+            {"Key": "on G", "Range" : "2 Octaves", "Type": "Diminished 7th"},
+            {"Key": "on A", "Range" : "2 Octaves", "Type": "Diminished 7th"},
+            {"Key": "on B", "Range" : "2 Octaves", "Type": "Diminished 7th"}
+
+        ]
+    },
+    {
+        "Instrument": "Flute",
+        "Grade": 8,
+        "Articulation": ["Legato-tongued", "Slurred", "Staccato"],
+        "Scales": [
+            {"Key": "E flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F sharp Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F sharp Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "G sharp Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "G sharp Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E flat melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F sharp melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F sharp harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F sharp Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "G sharp melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "G sharp harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "G sharp Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "C Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "C Major", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "C melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "C harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "C Minor", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            
+
+            { "Key": "G major", "Range": "Extended Range", "Type": "Scale" },
+            { "Key": "G major", "Range": "Extended Range", "Type": "Arpeggio" },
+            { "Key": "F harmonic minor", "Range": "Extended Range", "Type": "Scale" },
+            { "Key": "F minor", "Range": "Extended Range", "Type": "Arpeggio" },
+
+
+            { "Key": "G major", "Range": "2 Octaves", "Type": "Scale in 3rds" },
+        
+            { "Key": "B flat major", "Range": "2 Octaves", "Type": "Scale in 3rds" },
+
+
+            {"Key": "on E flat", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "on E", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "on F sharp", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "on A flat", "Range" : "2 Octaves", "Type": "Chromatic"},
+            {"Key": "on C", "Range" : "3 Octaves", "Type": "Chromatic"},
+
+            { "Key": "on F", "Range": "2 Octaves", "Type": "Whole-Tone Scale" },
+            { "Key": "on C", "Range": "3 Octaves", "Type": "Whole-Tone Scale" },
+
+
+
+            {"Key": "in A flat", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "in A", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "in B", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "in D flat", "Range" : "2 Octaves", "Type": "Dominant 7th"},
+            {"Key": "in F", "Range" : "3 Octaves", "Type": "Dominant 7th"},
+
+
+            {"Key": "on E flat", "Range" : "2 Octaves", "Type": "Diminished 7th"},
+            {"Key": "on E", "Range" : "2 Octaves", "Type": "Diminished 7th"},
+            {"Key": "on F sharp", "Range" : "2 Octaves", "Type": "Diminished 7th"},
+            {"Key": "on A flat", "Range" : "2 Octaves", "Type": "Diminished 7th"},
+            {"Key": "on C", "Range" : "3 Octaves", "Type": "Diminished 7th"}
+
+        ]
+    }
+    
+]

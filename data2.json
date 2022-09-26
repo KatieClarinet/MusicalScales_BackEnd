@@ -1,0 +1,39 @@
+[
+    {
+        "Instrument": "Clarinet",
+        "Grade": 1,
+        "Scales": [
+            {
+                "Key": "F Major", "Range": "1 Octave", "Other": [
+                {"Articulation": ""}
+            ]
+                
+            }
+            
+
+
+        ]
+               
+
+               
+        }
+
+
+            {"Key": "F Major", "Range": "1 Octave", "Type": "Scale", "Articulation": "Tongued"},
+            {"Key": "F Major", "Range": "1 Octave", "Type": "Scale", "Articulation": "Slurred"},
+            {"Key": "F Major", "Range": "1 Octave", "Type": "Arpeggio", "Articulation": "Tongued"},
+            {"Key": "F Major", "Range": "1 Octave", "Type": "Arpeggio", "Articulation": "Slurred"},
+
+            {"Key": "G Major", "Range": "1 Octave", "Type": "Scale", "Articulation": "Tongued"},
+            {"Key": "G Major", "Range": "1 Octave", "Type": "Scale", "Articulation": "Slurred"},
+            {"Key": "G Major", "Range": "1 Octave", "Type": "Arpeggio", "Articulation": "Tongued"},
+            {"Key": "G Major", "Range": "1 Octave", "Type": "Arpeggio", "Articulation": "Slurred"},
+
+            {"Key": "A Minor", "Range": "1 Octave", "Type": "Scale", "Articulation": "Tongued"},
+            {"Key": "A Minor", "Range": "1 Octave", "Type": "Scale", "Articulation": "Slurred"},
+            {"Key": "A Minor", "Range": "1 Octave", "Type": "Arpeggio", "Articulation": "Tongued"},
+            {"Key": "A Minor", "Range": "1 Octave", "Type": "Arpeggio", "Articulation": "Slurred"}
+        
+    }
+
+]

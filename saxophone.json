@@ -1,0 +1,469 @@
+[
+    {
+        "Instrument": "Saxophone",
+        "Grade": 1,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            { "Key": "F Major", "Range": "1 Octave", "Type": "Scale" },
+            { "Key": "F Major", "Range": "1 Octave", "Type": "Arpeggio" },
+
+            { "Key": "G Major", "Range": "1 Octave", "Type": "Scale" },
+            { "Key": "G Major", "Range": "1 Octave", "Type": "Arpeggio" },
+
+            { "Key": "D Minor", "Range": "1 Octave", "Type": "Scale" },
+            { "Key": "D Minor", "Range": "1 Octave", "Type": "Arpeggio" }
+        ]
+    },
+    {
+        "Instrument": "Saxophone",
+        "Grade": 2,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            { "Key": "C Major", "Range": "1 Octave", "Type": "Scale" },
+            { "Key": "C Major", "Range": "1 Octave", "Type": "Arpeggio" },
+
+            { "Key": "D Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "D Major", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "F Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "F Major", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "A Minor", "Range": "1 Octave", "Type": "Scale" },
+            { "Key": "A Minor", "Range": "1 Octave", "Type": "Scale" },
+
+            { "Key": "D Minor", "Range": "12th", "Type": "Scale" },
+            { "Key": "D Minor", "Range": "12th", "Type": "Argeggio" }
+        ]
+    },
+    {
+        "Instrument": "Saxophone",
+        "Grade": 3,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            { "Key": "B flat Major", "Range": "1 Octave", "Type": "Scale" },
+            { "Key": "B flat Major", "Range": "1 Octave", "Type": "Arpeggio" },
+
+            { "Key": "G Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "G Major", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "C Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "C Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "D Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "D Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "B Minor", "Range": "1 Octave", "Type": "Scale" },
+            { "Key": "B Minor", "Range": "1 Octave", "Type": "Arpeggio" },
+
+            { "Key": "G Minor", "Range": "12th", "Type": "Scale" },
+            { "Key": "G Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "D Minor", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "D Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "on G", "Range": "1 Octave", "Type": "Chromatic" }
+        ]
+    },
+    {
+        "Instrument": "Saxophone",
+        "Grade": 4,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            { "Key": "A Major", "Range": "1 Octave", "Type": "Scale" },
+            { "Key": "A Major", "Range": "1 Octave", "Type": "Arpeggio" },
+
+            { "Key": "E Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "E Major", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "G Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "G Major", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "D Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "D Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "E flat Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "E flat Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "F sharp Minor", "Range": "1 Octave", "Type": "Scale" },
+            { "Key": "F sharp Minor", "Range": "1 Octave", "Type": "Arpeggio" },
+
+            { "Key": "E Minor", "Range": "12th", "Type": "Scale" },
+            { "Key": "E Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "F Minor", "Range": "12th", "Type": "Scale" },
+            { "Key": "F Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "C Minor", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "C Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "on G", "Range": "12th", "Type": "Chromatic" },
+            { "Key": "in F", "Range": "2 Octaves", "Type": "Dominant 7th" }
+        ]
+    },
+    {
+        "Instrument": "Saxophone",
+        "Grade": 5,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            { "Key": "A flat Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "A flat Major", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "A Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "A Major", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "B flat Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "B flat Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "E flat Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "E flat Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "E Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "E Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "F Minor", "Range": "12th", "Type": "Scale" },
+            { "Key": "F Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "F sharp Minor", "Range": "12th", "Type": "Scale" },
+            { "Key": "F sharp Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "B Minor", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "B Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "C sharp Minor", "Range": "2 Octaves", "Type": "Scale" },
+            {
+                "Key": "C sharp Minor",
+                "Range": "2 Octaves",
+                "Type": "Arpeggio"
+            },
+
+            { "Key": "E Minor", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "E Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "on A flat", "Range": "12th", "Type": "Chromatic" },
+            { "Key": "on D", "Range": "2 Octaves", "Type": "Chromatic" },
+            { "Key": "in C", "Range": "12th", "Type": "Dominant 7th" },
+            {
+                "Key": "in A flat",
+                "Range": "2 Octaves",
+                "Type": "Dominant 7th"
+            },
+            {
+                "Key": "on C sharp",
+                "Range": "2 Octaves",
+                "Type": "Diminished 7th"
+            }
+        ]
+    },
+    {
+        "Instrument": "Saxophone",
+        "Grade": 6,
+        "Articulation": ["Tongued", "Slurred"],
+        "Scales": [
+            { "Key": "A flat Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "A flat Major", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "A Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "A Major", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "A flat melodic Minor", "Range": "12th", "Type": "Scale" },
+            {
+                "Key": "A flat harmonic Minor",
+                "Range": "12th",
+                "Type": "Scale"
+            },
+            { "Key": "A flat Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "A melodic Minor", "Range": "12th", "Type": "Scale" },
+            { "Key": "A harmonic Minor", "Range": "12th", "Type": "Scale" },
+            { "Key": "A Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "B Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "B Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "D Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "D Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "F Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "F Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "B melodic Minor", "Range": "2 Octaves", "Type": "Scale" },
+            {
+                "Key": "B harmonic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            { "Key": "B Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "D melodic Minor", "Range": "2 Octaves", "Type": "Scale" },
+            {
+                "Key": "D harmonic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            { "Key": "D Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "F melodic Minor", "Range": "2 Octaves", "Type": "Scale" },
+            {
+                "Key": "F harmonic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            { "Key": "F Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "G Major", "Range": "1 Octave", "Type": "Scale in 3rds" },
+
+            { "Key": "on A flat", "Range": "12th", "Type": "Chromatic" },
+            { "Key": "on A", "Range": "12th", "Type": "Chromatic" },
+            { "Key": "on D", "Range": "2 Octaves", "Type": "Chromatic" },
+
+            { "Key": "in D flat", "Range": "12th", "Type": "Dominant 7th" },
+            { "Key": "in D", "Range": "12th", "Type": "Dominant 7th" },
+            { "Key": "in G", "Range": "2 Octaves", "Type": "Dominant 7th" },
+
+            { "Key": "on A flat", "Range": "12th", "Type": "Diminished 7th" },
+            { "Key": "on A", "Range": "12th", "Type": "Diminished 7th" },
+            { "Key": "on D", "Range": "2 Octaves", "Type": "Diminished 7th" }
+        ]
+    },
+    {
+        "Instrument": "Saxophone",
+        "Grade": 7,
+        "Articulation": ["Legato-tongued", "Slurred", "Staccato"],
+        "Scales": [
+            { "Key": "F sharp Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "F sharp Major", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "G Major", "Range": "12th", "Type": "Scale" },
+            { "Key": "G Major", "Range": "12th", "Type": "Arpeggio" },
+
+            {
+                "Key": "F sharp melodic Minor",
+                "Range": "12th",
+                "Type": "Scale"
+            },
+            {
+                "Key": "F sharp harmonic Minor",
+                "Range": "12th",
+                "Type": "Scale"
+            },
+            { "Key": "F sharp Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "G melodic Minor", "Range": "12th", "Type": "Scale" },
+            { "Key": "G harmonic Minor", "Range": "12th", "Type": "Scale" },
+            { "Key": "G Minor", "Range": "12th", "Type": "Arpeggio" },
+
+            { "Key": "C Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "C Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "E flat Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "E flat Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "E Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "E Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "C melodic Minor", "Range": "2 Octaves", "Type": "Scale" },
+            {
+                "Key": "C harmonic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            { "Key": "C Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            {
+                "Key": "E flat melodic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            {
+                "Key": "E flat harmonic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            { "Key": "E flat Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "E melodic Minor", "Range": "2 Octaves", "Type": "Scale" },
+            {
+                "Key": "E harmonic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            { "Key": "E Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "D Major", "Range": "2 Octave", "Type": "Scale in 3rds" },
+
+            { "Key": "on F sharp", "Range": "12th", "Type": "Chromatic" },
+            { "Key": "on G", "Range": "12th", "Type": "Chromatic" },
+            { "Key": "on C", "Range": "2 Octaves", "Type": "Chromatic" },
+            { "Key": "on E flat", "Range": "2 Octaves", "Type": "Chromatic" },
+
+            { "Key": "in B", "Range": "12th", "Type": "Dominant 7th" },
+            { "Key": "in C", "Range": "12th", "Type": "Dominant 7th" },
+            { "Key": "in F", "Range": "2 Octaves", "Type": "Dominant 7th" },
+            {
+                "Key": "in A flat",
+                "Range": "2 Octaves",
+                "Type": "Dominant 7th"
+            },
+
+            { "Key": "on F sharp", "Range": "12th", "Type": "Diminished 7th" },
+            { "Key": "on G", "Range": "12th", "Type": "Diminished 7th" },
+            { "Key": "on C", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            {
+                "Key": "on E flat",
+                "Range": "2 Octaves",
+                "Type": "Diminished 7th"
+            }
+        ]
+    },
+    {
+        "Instrument": "Saxophone",
+        "Grade": 8,
+        "Articulation": ["Legato-tongued", "Slurred", "Staccato"],
+        "Scales": [
+            { "Key": "B Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "B Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "D flat Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "D flat Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "E Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "E Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "F Major", "Range": "2 Octaves", "Type": "Scale" },
+            { "Key": "F Major", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "B melodic Minor", "Range": "2 Octaves", "Type": "Scale" },
+            {
+                "Key": "B harmonic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            { "Key": "B Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            {
+                "Key": "D flat melodic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            {
+                "Key": "D flat harmonic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            { "Key": "D flat Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "E melodic Minor", "Range": "2 Octaves", "Type": "Scale" },
+            {
+                "Key": "E harmonic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            { "Key": "E Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            { "Key": "F melodic Minor", "Range": "2 Octaves", "Type": "Scale" },
+            {
+                "Key": "F harmonic Minor",
+                "Range": "2 Octaves",
+                "Type": "Scale"
+            },
+            { "Key": "F Minor", "Range": "2 Octaves", "Type": "Arpeggio" },
+
+            {
+                "Key": "B flat Major",
+                "Range": "2 & a half Octaves",
+                "Type": "Scale"
+            },
+            {
+                "Key": "B flat Major",
+                "Range": "2 & a half Octaves",
+                "Type": "Arpeggio"
+            },
+
+            {
+                "Key": "B flat melodic Minor",
+                "Range": "2 & a half Octaves",
+                "Type": "Scale"
+            },
+            {
+                "Key": "B flat harmonic Minor",
+                "Range": "2 & a half Octaves",
+                "Type": "Scale"
+            },
+            {
+                "Key": "B flat Minor",
+                "Range": "2 & a half Octaves",
+                "Type": "Arpeggio"
+            },
+
+            {
+                "Key": "A flat Major",
+                "Range": "Extended Range",
+                "Type": "Scale"
+            },
+            { "Key": "A Major", "Range": "Extended Range", "Type": "Arpeggio" },
+
+            {
+                "Key": "A harmonic Minor",
+                "Range": "Extended Range",
+                "Type": "Scale"
+            },
+            { "Key": "A Minor", "Range": "Extended Range", "Type": "Arpeggio" },
+
+            { "Key": "C Major", "Range": "2 Octave", "Type": "Scale in 3rds" },
+            {
+                "Key": "E flat Major",
+                "Range": "2 Octave",
+                "Type": "Scale in 3rds"
+            },
+
+            { "Key": "on B", "Range": "2 Octaves", "Type": "Chromatic" },
+            { "Key": "on C sharp", "Range": "2 Octaves", "Type": "Chromatic" },
+            { "Key": "on E", "Range": "2 Octaves", "Type": "Chromatic" },
+            { "Key": "on F", "Range": "2 Octaves", "Type": "Chromatic" },
+            {
+                "Key": "on B flat",
+                "Range": "2 & a half Octaves",
+                "Type": "Chromatic"
+            },
+
+            { "Key": "on D", "Range": "2 Octaves", "Type": "Whole-Tone Scale" },
+            {
+                "Key": "on E flat",
+                "Range": "2 Octaves",
+                "Type": "Whole-Tone Scale"
+            },
+
+            { "Key": "in E", "Range": "2 Octaves", "Type": "Dominant 7th" },
+            {
+                "Key": "in F sharp",
+                "Range": "2 Octaves",
+                "Type": "Dominant 7th"
+            },
+            { "Key": "in A", "Range": "2 Octaves", "Type": "Dominant 7th" },
+            {
+                "Key": "in B flat",
+                "Range": "2 Octaves",
+                "Type": "Dominant 7th"
+            },
+            {
+                "Key": "in E flat",
+                "Range": "2 & a half Octaves",
+                "Type": "Dominant 7th"
+            },
+
+            { "Key": "on B", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            {
+                "Key": "on C sharp",
+                "Range": "2 Octaves",
+                "Type": "Diminished 7th"
+            },
+            { "Key": "on E", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            { "Key": "on F", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            {
+                "Key": "on B flat",
+                "Range": "2 & a half Octaves",
+                "Type": "Diminished 7th"
+            }
+        ]
+    }
+]
