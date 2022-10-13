@@ -1,7 +1,9 @@
 {
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "dev": "nodemon -r dotenv/config index.js"
   },
+  
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.2",
