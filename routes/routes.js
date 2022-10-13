@@ -28,7 +28,7 @@ router.get('/getOne/:id', async (req, res) => {
     let id = req.params.id
     try{
         const data = await Model.findById({ _id: id});
-        console.log("data:", data)
+        console.log("data:", data.images)
         res.json(data)
     }
     catch(error){
