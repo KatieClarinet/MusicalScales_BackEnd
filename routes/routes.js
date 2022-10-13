@@ -24,11 +24,11 @@ router.get('/getAll', async (req, res) => {
 
 //Get by ID Method
 router.get('/getOne/:id', async (req, res) => {
-    console.log(req.params.id)
+    // console.log(req.params.id)
     let id = req.params.id
     try{
         const data = await Model.findById({ _id: id});
-        console.log(data)
+        console.log("data:", data)
         res.json(data)
     }
     catch(error){
