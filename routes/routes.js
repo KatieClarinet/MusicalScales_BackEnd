@@ -14,7 +14,7 @@ router.post('/post', async (req, res) => {
 router.get('/getAll', async (req, res) => {
     try{
         const data = await Model.find();
-        console.log(data)
+        // console.log(data)
         res.json(data)
     }
     catch(error){
@@ -28,7 +28,7 @@ router.get('/getOne/:id', async (req, res) => {
     let id = req.params.id
     try{
         const data = await Model.findById({ _id: id});
-        console.log("data:", data.images)
+        // console.log("data:", data.images)
         res.json(data)
     }
     catch(error){
