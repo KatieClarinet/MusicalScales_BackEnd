@@ -1,0 +1,394 @@
+[
+    {
+        "Instrument": "Violin",
+        "Grade": 1,
+        "Articulation": {
+            "Scale": ["Seperate Bows", "Slurred (2 quavers to a bow)"],
+            "Arpeggio": ["Seperate Bows"]
+        },
+        "Scales": [
+            {"Key": "D Major", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "D Major", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "A Major", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "A Major", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "G Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "G Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E Natural Minor", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "E Minor", "Range": "1 Octave", "Type": "Arpeggio"}
+        ]
+    },
+    {
+        "Instrument": "Violin",
+        "Grade": 2,
+        "Articulation": {
+            "Scale": ["Seperate Bows", "Slurred (2 quavers to a bow)"],
+            "Arpeggio": ["Seperate Bows"]
+        },
+        "Scales": [
+            {"Key": "C Major", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "C Major", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "F Major", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "F Major", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "G Minor", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "G Minor", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "D Minor", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "D Minor", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "G Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "G Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "A Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "B flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B flat Major", "Range": "2 Octaves", "Type": "Arpeggio"}
+        ]
+    },
+    {
+        "Instrument": "Violin",
+        "Grade": 3,
+        "Articulation": {
+            "Scale": ["Seperate Bows", "Slurred (2 quavers to a bow)"],
+            "Arpeggio": ["Seperate Bows", "Slurred (3 notes to a bow)"],
+            "Chromatic": ["Seperate Bows"]
+        },
+        "Scales": [
+            {"Key": "A flat Major", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "A flat Major", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "E flat Major", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "E flat Major", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "E Major", "Range": "1 Octave", "Type": "Scale"},
+            {"Key": "E Major", "Range": "1 Octave", "Type": "Arpeggio"},
+
+            {"Key": "B flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B flat Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "D Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "D Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "A Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "D Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "D Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "starting on D", "Range": "1 Octave", "Type": "Chromatic"}
+
+        ]
+    },
+    {
+        "Instrument": "Violin",
+        "Grade": 4,
+        "Articulation": {
+            "Scale": ["Seperate Bows", "Slurred (2 beats to a bow)"],
+            "Arpeggio": ["Seperate Bows", "Slurred (3 notes to a bow)"],
+            "Chromatic": ["Seperate Bows", "Slurred (4 notes to a bow)"],
+            "Dominant_7th":  ["Seperate Bows"]
+        },
+
+        "Scales": [
+          
+            {"Key": "A flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "A flat Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "B Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "C Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "G Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "G Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "B Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "C Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "in C", "Range": "1 Octave", "Type": "Dominant 7th" },
+            {"Key": "in D", "Range": "1 Octave", "Type": "Dominant 7th" },
+            
+            {"Key": "starting on A", "Range": "1 Octave", "Type": "Chromatic"},
+            {"Key": "starting on E", "Range": "1 Octave", "Type": "Chromatic"}
+
+        ]
+    },
+    {
+        "Instrument": "Violin",
+        "Grade": 5,
+        "Articulation": {
+            "Scale": ["Seperate Bows", "Slurred (2 beats to a bow)"],
+            "Arpeggio": ["Seperate Bows", "Slurred (3 notes to a bow)"],
+            "Chromatic": ["Seperate Bows", "Slurred (4 notes to a bow)"],
+            "Dominant_7th":  ["Seperate Bows", "Slurred (4 notes to a bow)"],
+            "Diminished_7th": ["Seperate Bows"]
+        },
+        "Scales": [
+          
+            {"Key": "D flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "D flat Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "B Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "B Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "C sharp Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C sharp Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "G Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "G Major", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "A Major", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "G Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "G Minor", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "A Minor", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "in B flat", "Range": "1 Octave", "Type": "Dominant 7th" },
+            {"Key": "in C", "Range": "2 Octaves", "Type": "Dominant 7th" },
+            {"Key": "in D", "Range": "2 Octaves", "Type": "Dominant 7th" },
+
+            {"Key": "on G", "Range": "1 Octave", "Type": "Diminished 7th" },
+            {"Key": "on D", "Range": "1 Octave", "Type": "Diminished 7th" },
+            
+            {"Key": "starting on G", "Range": "2 Octaves", "Type": "Chromatic"},
+            {"Key": "starting on A", "Range": "2 Octaves", "Type": "Chromatic"},
+            {"Key": "starting on B flat", "Range": "2 Octaves", "Type": "Chromatic"}
+
+        ]
+    },
+    {
+        "Instrument": "Violin",
+        "Grade": 6,
+        "Articulation": {
+            "Scale": ["Seperate Bows", "Slurred (7 notes to a bow)"],
+            "Arpeggio": ["Seperate Bows", "Slurred (6 notes to a bow)"],
+            "Arpeggio_3_Oct": ["Seperate Bows", "Slurred (3 notes to a bow)"],
+            "Chromatic": ["Seperate Bows", "Slurred (6 notes to a bow)"],
+            "Dominant_7th":  ["Seperate Bows", "Slurred (4 notes to a bow)"],
+            "Diminished_7th": ["Seperate Bows", "Slurred (4 notes to a bow)"],
+            "Double_Stop_Broken": ["See ABRSM Guidelines"]
+        },
+        "Scales": [
+          
+            {"Key": "C Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E flat Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F sharp Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F sharp Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "C melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "C Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E flat melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "E flat Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F sharp melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F sharp harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F sharp Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "G Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "G Major", "Range": "3 Octaves", "Type": "Arpeggio 3 Oct"},
+
+            {"Key": "B flat Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "B flat Major", "Range": "3 Octaves", "Type": "Arpeggio 3 Oct"},
+
+            {"Key": "G harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "G melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "G Minor", "Range": "3 Octaves", "Type": "Arpeggio 3 Oct"},
+
+            {"Key": "B flat harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "B flat melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "B flat Minor", "Range": "3 Octaves", "Type": "Arpeggio 3 Oct"},
+
+            {"Key": "in C", "Range": "2 Octaves", "Type": "Dominant 7th" },
+            {"Key": "in E flat", "Range": "2 Octaves", "Type": "Dominant 7th" },
+            {"Key": "in F", "Range": "2 Octaves", "Type": "Dominant 7th" },
+
+            {"Key": "on G", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            {"Key": "on B flat", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            {"Key": "on C", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            
+            {"Key": "starting on G", "Range": "2 Octaves", "Type": "Chromatic"},
+            {"Key": "starting on B flat", "Range": "2 Octaves", "Type": "Chromatic"},
+            {"Key": "starting on C", "Range": "2 Octaves", "Type": "Chromatic"},
+
+            {"Key": "B flat Major, in sixths", "Range": "1 Octave", "Type": "Double Stop Scale in Broken Steps"}
+
+        ]
+    },
+    {
+        "Instrument": "Violin",
+        "Grade": 7,
+        "Articulation": {
+            "Scale": ["Seperate Bows", "Slurred (7 notes to a bow)"],
+            "Arpeggio": ["Seperate Bows", "Slurred (6 notes to a bow)"],
+            "Arpeggio_3_Oct": ["Seperate Bows", "Slurred (3 notes to a bow)"],
+            "Chromatic": ["Seperate Bows", "Slurred (12 notes to a bow)"],
+            "Dominant_7th":  ["Seperate Bows", "Slurred (4 notes to a bow)"],
+            "Diminished_7th": ["Seperate Bows", "Slurred (4 notes to a bow)"],
+            "Double_Stop_Broken": ["See ABRSM Guidelines"]
+        },
+        "Scales": [
+          
+            {"Key": "F Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F sharp Major", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F sharp Major", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "F sharp harmonic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F sharp melodic Minor", "Range": "2 Octaves", "Type": "Scale"},
+            {"Key": "F sharp Minor", "Range": "2 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "A Major", "Range": "3 Octaves", "Type": "Arpeggio 3 Oct"},
+
+            {"Key": "B Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "B Major", "Range": "3 Octaves", "Type": "Arpeggio 3 Oct"},
+
+            {"Key": "D Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "D Major", "Range": "3 Octaves", "Type": "Arpeggio 3 Oct"},
+
+            {"Key": "A harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "A melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "A Minor", "Range": "3 Octaves", "Type": "Arpeggio 3 Oct"},
+
+            {"Key": "B harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "B melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "B Minor", "Range": "3 Octaves", "Type": "Arpeggio 3 Oct"},
+
+            {"Key": "D harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "D melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "D Minor", "Range": "3 Octaves", "Type": "Arpeggio 3 Oct"},
+
+            
+
+            {"Key": "in G", "Range": "2 Octaves", "Type": "Dominant 7th" },
+            {"Key": "in B flat", "Range": "2 Octaves", "Type": "Dominant 7th" },
+            {"Key": "in D", "Range": "3 Octaves", "Type": "Dominant 7th" },
+            {"Key": "in E", "Range": "3 Octaves", "Type": "Dominant 7th" },
+
+            {"Key": "on D", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            {"Key": "on F", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            {"Key": "on A", "Range": "3 Octaves", "Type": "Diminished 7th" },
+            {"Key": "on B", "Range": "3 Octaves", "Type": "Diminished 7th" },
+            
+            {"Key": "starting on D", "Range": "2 Octaves", "Type": "Chromatic"},
+            {"Key": "starting on F", "Range": "2 Octaves", "Type": "Chromatic"},
+            {"Key": "starting on A", "Range": "3 Octaves", "Type": "Chromatic"},
+            {"Key": "starting on B", "Range": "3 Octaves", "Type": "Chromatic"},
+
+            {"Key": "G Major, in sixths", "Range": "1 Octave", "Type": "Double Stop Scale in Broken Steps"},
+            {"Key": "B flat Major, in sixths", "Range": "1 Octave", "Type": "Double Stop Scale in Broken Steps"},
+            {"Key": "D Major, in octaves", "Range": "1 Octave", "Type": "Double Stop Scale in Broken Steps"}
+
+        ]
+    },
+    {
+        "Instrument": "Violin",
+        "Grade": 8,
+        "Articulation": {
+            "Scale": ["Seperate Bows", "Slurred (7 notes to a bow)"],
+            "Arpeggio": ["Seperate Bows", "Slurred (9 notes to a bow)"],
+            "Chromatic": ["Seperate Bows", "Slurred (12 notes to a bow)"],
+            "Dominant_7th":  ["Seperate Bows", "Slurred (4 notes to a bow)"],
+            "Diminished_7th": ["Seperate Bows", "Slurred (4 notes to a bow)"],
+            "Double_Stop_Broken": ["See ABRSM Guidelines"],
+            "Parallel": ["Seperate Bows"]
+        },
+        "Scales": [
+          
+
+            {"Key": "A flat Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "A flat Major", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "C Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "C Major", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "D flat Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "D flat Major", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E flat Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "E flat Major", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E Major", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "E Major", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "A flat harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "A flat melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "A flat Minor", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "C harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "C melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "C Minor", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "D flat harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "D flat melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "D flat Minor", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E flat harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "E flat melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "E flat Minor", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "E harmonic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "E melodic Minor", "Range": "3 Octaves", "Type": "Scale"},
+            {"Key": "E Minor", "Range": "3 Octaves", "Type": "Arpeggio"},
+
+            {"Key": "in D flat", "Range": "3 Octaves", "Type": "Dominant 7th" },
+            {"Key": "in F", "Range": "3 Octaves", "Type": "Dominant 7th" },
+            {"Key": "in A flat", "Range": "3 Octaves", "Type": "Dominant 7th" },
+            {"Key": "in A", "Range": "3 Octaves", "Type": "Dominant 7th" },
+
+            {"Key": "on C", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            {"Key": "on E flat", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            {"Key": "on E", "Range": "2 Octaves", "Type": "Diminished 7th" },
+            {"Key": "on A flat", "Range": "3 Octaves", "Type": "Diminished 7th" },
+            
+            {"Key": "starting on C", "Range": "2 Octaves", "Type": "Chromatic"},
+            {"Key": "starting on E flat", "Range": "2 Octaves", "Type": "Chromatic"},
+            {"Key": "starting on E", "Range": "2 Octaves", "Type": "Chromatic"},
+            {"Key": "starting on A flat", "Range": "3 Octaves", "Type": "Chromatic"},
+
+            {"Key": "D major, in octaves", "Range": "1 Octave", "Type": "Double Stop Scale in Parallel"},
+            {"Key": "G harmonic Minor, in octaves", "Range": "1 Octave", "Type": "Double Stop Scale in Parallel"},
+            {"Key": "G melodic Minor, in octaves", "Range": "1 Octave", "Type": "Double Stop Scale in Parallel"},
+            {"Key": "E flat Major, in sixths", "Range": "2 Octaves", "Type": "Double Stop Scale in Parallel"},
+
+            {"Key": "B flat Major, in thirds", "Range": "2 Octaves", "Type": "Double Stop Scale in Broken Steps"}
+
+        ]
+    }
+]

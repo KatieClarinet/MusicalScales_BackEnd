@@ -5,7 +5,10 @@
                 "C Major": "https://skyescrescentradio.com/wp-content/uploads/2020/12/music.png"
             },
             {
-                "C Sharp Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/C-sharp-major_a-sharp-minor.svg/640px-C-sharp-major_a-sharp-minor.svg.png"
+                "C sharp Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/C-sharp-major_a-sharp-minor.svg/640px-C-sharp-major_a-sharp-minor.svg.png"
+            },
+            {
+                "D flat Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/C-sharp-major_a-sharp-minor.svg/640px-C-sharp-major_a-sharp-minor.svg.png"
             },
             {
                 "D Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-major_b-minor.svg/800px-D-major_b-minor.svg.png"
@@ -14,16 +17,25 @@
                 "E flat Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/E-flat-major_c-minor.svg/230px-E-flat-major_c-minor.svg.png"
             },
             {
+                "D sharp Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/E-flat-major_c-minor.svg/230px-E-flat-major_c-minor.svg.png"
+            },
+            {
                 "E Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/E-major_c-sharp-minor.svg/640px-E-major_c-sharp-minor.svg.png"
             },
             {
                 "F Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/F-major_d-minor.svg/308px-F-major_d-minor.svg.png"
             },
             {
+                "F sharp Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G-flat-major_e-flat-minor.svg/640px-G-flat-major_e-flat-minor.svg.png"
+            },
+            {
                 "G flat Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G-flat-major_e-flat-minor.svg/640px-G-flat-major_e-flat-minor.svg.png"
             },
             {
                 "G Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/G-major_e-minor.svg/999px-G-major_e-minor.svg.png"
+            },
+            {
+                "G sharp Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/A-flat-major_f-minor.svg/1200px-A-flat-major_f-minor.svg.png"
             },
             {
                 "A flat Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/A-flat-major_f-minor.svg/1200px-A-flat-major_f-minor.svg.png"
@@ -38,19 +50,76 @@
                 "B flat Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/B-flat-major_g-minor.svg/800px-B-flat-major_g-minor.svg.png"
             },
             {
+                "A sharp Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/B-flat-major_g-minor.svg/800px-B-flat-major_g-minor.svg.png"
+            },
+            {
                 "A Minor": "https://skyescrescentradio.com/wp-content/uploads/2020/12/music.png"
+            },
+            {
+                "A harmonic Minor": "https://skyescrescentradio.com/wp-content/uploads/2020/12/music.png"
+            },
+            {
+                "A melodic Minor": "https://skyescrescentradio.com/wp-content/uploads/2020/12/music.png"
             },
             {
                 "B Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-major_b-minor.svg/800px-D-major_b-minor.svg.png"
             },
             {
+                "B harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-major_b-minor.svg/800px-D-major_b-minor.svg.png"
+            },
+            {
+                "B melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-major_b-minor.svg/800px-D-major_b-minor.svg.png"
+            },
+            {
                 "C Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/E-flat-major_c-minor.svg/230px-E-flat-major_c-minor.svg.png"
+            },
+            {
+                "C harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/E-flat-major_c-minor.svg/230px-E-flat-major_c-minor.svg.png"
+            },
+            {
+                "C melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/E-flat-major_c-minor.svg/230px-E-flat-major_c-minor.svg.png"
             },
             {
                 "C sharp Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/E-major_c-sharp-minor.svg/640px-E-major_c-sharp-minor.svg.png"
             },
             {
+                "C sharp harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/E-major_c-sharp-minor.svg/640px-E-major_c-sharp-minor.svg.png"
+            },
+            {
+                "C sharp melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/E-major_c-sharp-minor.svg/640px-E-major_c-sharp-minor.svg.png"
+            },
+            {
+                "D flat Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/E-major_c-sharp-minor.svg/640px-E-major_c-sharp-minor.svg.png"
+            },
+            {
+                "D flat harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/E-major_c-sharp-minor.svg/640px-E-major_c-sharp-minor.svg.png"
+            },
+            {
+                "D flat melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/E-major_c-sharp-minor.svg/640px-E-major_c-sharp-minor.svg.png"
+            },
+            {
                 "D Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/F-major_d-minor.svg/308px-F-major_d-minor.svg.png"
+            },
+            {
+                "D harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/F-major_d-minor.svg/308px-F-major_d-minor.svg.png"
+            },
+            {
+                "D melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/F-major_d-minor.svg/308px-F-major_d-minor.svg.png"
+            },
+            {
+                "D sharp Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G-flat-major_e-flat-minor.svg/640px-G-flat-major_e-flat-minor.svg.png"
+            },
+            {
+                "D sharp harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G-flat-major_e-flat-minor.svg/640px-G-flat-major_e-flat-minor.svg.png"
+            },
+            {
+                "D sharp melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G-flat-major_e-flat-minor.svg/640px-G-flat-major_e-flat-minor.svg.png"
+            },
+            {
+                "E flat harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G-flat-major_e-flat-minor.svg/640px-G-flat-major_e-flat-minor.svg.png"
+            },
+            {
+                "E flat melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G-flat-major_e-flat-minor.svg/640px-G-flat-major_e-flat-minor.svg.png"
             },
             {
                 "E flat Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G-flat-major_e-flat-minor.svg/640px-G-flat-major_e-flat-minor.svg.png"
@@ -59,19 +128,73 @@
                 "E Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/G-major_e-minor.svg/999px-G-major_e-minor.svg.png"
             },
             {
+                "E harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/G-major_e-minor.svg/999px-G-major_e-minor.svg.png"
+            },
+            {
+                "E melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/G-major_e-minor.svg/999px-G-major_e-minor.svg.png"
+            },
+            {
                 "F Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/A-flat-major_f-minor.svg/1200px-A-flat-major_f-minor.svg.png"
+            },
+            {
+                "F harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/A-flat-major_f-minor.svg/1200px-A-flat-major_f-minor.svg.png"
+            },
+            {
+                "F melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/A-flat-major_f-minor.svg/1200px-A-flat-major_f-minor.svg.png"
+            },
+            {
+                "F sharp harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/A-major_f-sharp-minor.svg/2560px-A-major_f-sharp-minor.svg.png"
+            },
+            {
+                "F sharp melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/A-major_f-sharp-minor.svg/2560px-A-major_f-sharp-minor.svg.png"
             },
             {
                 "F sharp Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/A-major_f-sharp-minor.svg/2560px-A-major_f-sharp-minor.svg.png"
             },
             {
+                "G flat harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/A-major_f-sharp-minor.svg/2560px-A-major_f-sharp-minor.svg.png"
+            },
+            {
+                "G flat melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/A-major_f-sharp-minor.svg/2560px-A-major_f-sharp-minor.svg.png"
+            },
+            {
+                "G flat Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/A-major_f-sharp-minor.svg/2560px-A-major_f-sharp-minor.svg.png"
+            },
+            {
+                "G harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/B-flat-major_g-minor.svg/800px-B-flat-major_g-minor.svg.png"
+            },
+            {
+                "G melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/B-flat-major_g-minor.svg/800px-B-flat-major_g-minor.svg.png"
+            },
+            {
                 "G Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/B-flat-major_g-minor.svg/800px-B-flat-major_g-minor.svg.png"
+            },
+            {
+                "G Sharp harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/B-major_g-sharp-minor.svg/230px-B-major_g-sharp-minor.svg.png"
+            },
+            {
+                "G Sharp melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/B-major_g-sharp-minor.svg/230px-B-major_g-sharp-minor.svg.png"
             },
             {
                 "G Sharp Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/B-major_g-sharp-minor.svg/230px-B-major_g-sharp-minor.svg.png"
             },
             {
-                "A Sharp Major": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/C-sharp-major_a-sharp-minor.svg/640px-C-sharp-major_a-sharp-minor.svg.png"
+                "A flat harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/B-major_g-sharp-minor.svg/230px-B-major_g-sharp-minor.svg.png"
+            },
+            {
+                "A flat melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/B-major_g-sharp-minor.svg/230px-B-major_g-sharp-minor.svg.png"
+            },
+            {
+                "A flat Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/B-major_g-sharp-minor.svg/230px-B-major_g-sharp-minor.svg.png"
+            },
+            {
+                "A sharp harmonic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/C-sharp-major_a-sharp-minor.svg/640px-C-sharp-major_a-sharp-minor.svg.png"
+            },
+            {
+                "A sharp melodic Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/C-sharp-major_a-sharp-minor.svg/640px-C-sharp-major_a-sharp-minor.svg.png"
+            },
+            {
+                "A sharp Minor": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/C-sharp-major_a-sharp-minor.svg/640px-C-sharp-major_a-sharp-minor.svg.png"
             }
         ]
     }

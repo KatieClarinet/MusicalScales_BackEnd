@@ -2,7 +2,10 @@
     {
         "Instrument": "Saxophone",
         "Grade": 1,
-        "Articulation": ["Tongued", "Slurred"],
+        "Articulation": {
+            "Scale": ["Tongued", "Slurred"],
+            "Arpeggio": ["Tongued", "Slurred"]
+        },
         "Scales": [
             { "Key": "F Major", "Range": "1 Octave", "Type": "Scale" },
             { "Key": "F Major", "Range": "1 Octave", "Type": "Arpeggio" },
@@ -17,7 +20,10 @@
     {
         "Instrument": "Saxophone",
         "Grade": 2,
-        "Articulation": ["Tongued", "Slurred"],
+        "Articulation": {
+            "Scale": ["Tongued", "Slurred"],
+            "Arpeggio": ["Tongued", "Slurred"]
+        },
         "Scales": [
             { "Key": "C Major", "Range": "1 Octave", "Type": "Scale" },
             { "Key": "C Major", "Range": "1 Octave", "Type": "Arpeggio" },
@@ -38,7 +44,11 @@
     {
         "Instrument": "Saxophone",
         "Grade": 3,
-        "Articulation": ["Tongued", "Slurred"],
+        "Articulation": {
+            "Scale": ["Tongued", "Slurred"],
+            "Arpeggio": ["Tongued", "Slurred"],
+            "Chromatic": ["Tongued", "Slurred"]
+        },
         "Scales": [
             { "Key": "B flat Major", "Range": "1 Octave", "Type": "Scale" },
             { "Key": "B flat Major", "Range": "1 Octave", "Type": "Arpeggio" },
@@ -67,7 +77,12 @@
     {
         "Instrument": "Saxophone",
         "Grade": 4,
-        "Articulation": ["Tongued", "Slurred"],
+        "Articulation": {
+            "Scale": ["Tongued", "Slurred"],
+            "Arpeggio": ["Tongued", "Slurred"],
+            "Chromatic": ["Tongued", "Slurred"],
+            "Dominant_7th": ["Tongued", "Slurred"]
+        },
         "Scales": [
             { "Key": "A Major", "Range": "1 Octave", "Type": "Scale" },
             { "Key": "A Major", "Range": "1 Octave", "Type": "Arpeggio" },
@@ -103,7 +118,13 @@
     {
         "Instrument": "Saxophone",
         "Grade": 5,
-        "Articulation": ["Tongued", "Slurred"],
+        "Articulation": {
+            "Scale": ["Tongued", "Slurred"],
+            "Arpeggio": ["Tongued", "Slurred"],
+            "Chromatic": ["Tongued", "Slurred"],
+            "Dominant_7th": ["Tongued", "Slurred"],
+            "Diminished_7th": ["Tongued", "Slurred"]
+        },
         "Scales": [
             { "Key": "A flat Major", "Range": "12th", "Type": "Scale" },
             { "Key": "A flat Major", "Range": "12th", "Type": "Arpeggio" },
@@ -157,7 +178,14 @@
     {
         "Instrument": "Saxophone",
         "Grade": 6,
-        "Articulation": ["Tongued", "Slurred"],
+        "Articulation": {
+            "Scale": ["Tongued", "Slurred"],
+            "Arpeggio": ["Tongued", "Slurred"],
+            "Chromatic": ["Tongued", "Slurred"],
+            "Dominant_7th": ["Tongued", "Slurred"],
+            "Diminished_7th": ["Tongued", "Slurred"],
+            "Scale_in_3rds": ["Tongued", "Slurred"]
+        },
         "Scales": [
             { "Key": "A flat Major", "Range": "12th", "Type": "Scale" },
             { "Key": "A flat Major", "Range": "12th", "Type": "Arpeggio" },
@@ -228,7 +256,14 @@
     {
         "Instrument": "Saxophone",
         "Grade": 7,
-        "Articulation": ["Legato-tongued", "Slurred", "Staccato"],
+        "Articulation": {
+            "Scale": ["Legato-tongued", "Slurred", "Staccato"],
+            "Arpeggio": ["Legato-tongued", "Slurred", "Staccato"],
+            "Chromatic": ["Legato-tongued", "Slurred", "Staccato"],
+            "Dominant_7th":["Legato-tongued", "Slurred", "Staccato"],
+            "Diminished_7th": ["Legato-tongued", "Slurred", "Staccato"],
+            "Scale_in_3rds": ["Legato-tongued", "Slurred", "Staccato"]
+        },
         "Scales": [
             { "Key": "F sharp Major", "Range": "12th", "Type": "Scale" },
             { "Key": "F sharp Major", "Range": "12th", "Type": "Arpeggio" },
@@ -318,7 +353,15 @@
     {
         "Instrument": "Saxophone",
         "Grade": 8,
-        "Articulation": ["Legato-tongued", "Slurred", "Staccato"],
+        "Articulation": {
+            "Scale": ["Legato-tongued", "Slurred", "Staccato"],
+            "Arpeggio": ["Legato-tongued", "Slurred", "Staccato"],
+            "Chromatic": ["Legato-tongued", "Slurred", "Staccato"],
+            "Dominant_7th":["Legato-tongued", "Slurred", "Staccato"],
+            "Diminished_7th": ["Legato-tongued", "Slurred", "Staccato"],
+            "Scale_in_3rds": ["Legato-tongued", "Slurred", "Staccato"],
+            "Whole_Tone_Scale": ["Legato-tongued", "Slurred", "Staccato"]
+        },
         "Scales": [
             { "Key": "B Major", "Range": "2 Octaves", "Type": "Scale" },
             { "Key": "B Major", "Range": "2 Octaves", "Type": "Arpeggio" },
